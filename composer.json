@@ -1,0 +1,11 @@
+{
+    "name": "alistairshaw/pr-reporting-tool",
+    "description": "Connect to Bitbucket to get information about Pull Requests",
+    "authors": [
+        {
+            "name": "Alistair Shaw",
+            "email": "alistair@loopreturns.com"
+        }
+    ],
+    "require": {}
+}
